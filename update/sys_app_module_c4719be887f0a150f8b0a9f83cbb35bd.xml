@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt Task">34107a1887f06150f8b0a9f83cbb358a</application>
+        <application display_value="NeedIt">3351f5ab87502110f8b0a9f83cbb35fc</application>
         <assessment/>
         <device_type/>
         <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>NeedIt Tasks</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_needit_task</name>
-        <order/>
+        <name/>
+        <order>900</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>system_properties_ui.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
         <report/>
-        <roles>x_58872_needit.needit_task_user</roles>
+        <roles>x_58872_needit.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-01-31 02:20:14</sys_created_on>
+        <sys_created_on>2023-01-31 23:27:49</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>bc107a1887f06150f8b0a9f83cbb358c</sys_id>
-        <sys_name>NeedIt Tasks</sys_name>
+        <sys_id>c4719be887f0a150f8b0a9f83cbb35bd</sys_id>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_bc107a1887f06150f8b0a9f83cbb358c</sys_update_name>
+        <sys_update_name>sys_app_module_c4719be887f0a150f8b0a9f83cbb35bd</sys_update_name>
         <timeline_page/>
-        <title>NeedIt Tasks</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

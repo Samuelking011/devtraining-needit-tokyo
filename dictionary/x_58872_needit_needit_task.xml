@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="2cff221887f06150f8b0a9f83cbb35e4" extends="task" max_length="40" name="x_58872_needit_needit_task" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="When needed" mandatory="true" max_length="40" name="when_needed" type="glide_date_time"/>
+    <element audit="true" db_object_id="2cff221887f06150f8b0a9f83cbb35e4" extends="task" label="NeedIt Task" max_length="40" name="x_58872_needit_needit_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Due Date" mandatory="true" max_length="40" name="when_needed" type="glide_date_time"/>
     </element>
 </database>
