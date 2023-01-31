@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">3351f5ab87502110f8b0a9f83cbb35fc</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_58872_needit_needit">state=1^ORstate=2^EQ<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item display_value="Work in Progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>List of NeedIt task</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NeedIt Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>350</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-30 00:38:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>64ee8d0c87fced10f8b0a9f83cbb3501</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>NeedIt Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_64ee8d0c87fced10f8b0a9f83cbb3501</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-30 01:41:08</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4ccf4f03db7d2c50387021c405961958</instance_id>
+        <instance_name>dev105801</instance_name>
+        <name>sys_app_module_64ee8d0c87fced10f8b0a9f83cbb3501</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">3351f5ab87502110f8b0a9f83cbb35fc</application><assessment/><device_type/><filter table="x_58872_needit_needit">state=1^ORstate=2^EQ<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/><item display_value="Work in Progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="2"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>List of NeedIt task</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>NeedIt Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>350</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-30 00:38:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>64ee8d0c87fced10f8b0a9f83cbb3501</sys_id><sys_mod_count>6</sys_mod_count><sys_name>NeedIt Tasks</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_64ee8d0c87fced10f8b0a9f83cbb3501</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-30 01:41:08</sys_updated_on><timeline_page/><title>NeedIt Tasks</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1027411250</payload_hash>
+        <record_name>NeedIt Tasks</record_name>
+        <reverted_from/>
+        <source>2fa2ac7387ecad10f8b0a9f83cbb35b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-30 01:41:09</sys_created_on>
+        <sys_id>d68d1d8887302150f8b0a9f83cbb3566</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1860055cf090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-30 01:41:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>de8d1d88ba3021506cde106e49cf9465</update_guid>
+        <update_guid_history>de8d1d88ba3021506cde106e49cf9465:-1027411250,d9ecd188b6302150f7643f0cde730c43:1522674653,da251d80483021509d9ad77392781f59:-1027411250,bd631d00ba3021509293819fd8f2efdf:1280700024,a5331d00ff302150f63b28a985679e6d:1818115826,c26f894cdafced10ab09c5b6acec9794:-1100321116,ad4f094c2afced10468d9aee6e64acb3:364896199</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Tasks">270d2e1487f06150f8b0a9f83cbb35cb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-31 02:07:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>653d59d164524698a7bc070966e66961</sys_id>
+        <sys_metadata>64ee8d0c87fced10f8b0a9f83cbb3501</sys_metadata>
+        <sys_name>NeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_64ee8d0c87fced10f8b0a9f83cbb3501</sys_update_name>
+        <sys_update_version display_value="sys_app_module_64ee8d0c87fced10f8b0a9f83cbb3501">d68d1d8887302150f8b0a9f83cbb3566</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
